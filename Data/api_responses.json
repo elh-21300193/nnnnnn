@@ -1,0 +1,32 @@
+[
+    {
+        "country": "United States",
+        "isp": "Google LLC",
+        "lat": 39.03,
+        "lon": -77.5,
+        "org": "Google Public DNS",
+        "query": "8.8.8.8",
+        "regionName": "Virginia",
+        "status": "success"
+    },
+    {
+        "country": null,
+        "isp": "Le Groupe Videotron Ltee",
+        "lat": null,
+        "lon": null,
+        "org": null,
+        "query": null,
+        "regionName": null,
+        "status": null
+    },
+    {
+        "country": "Australia",
+        "isp": null,
+        "lat": -27.4766,
+        "lon": null,
+        "org": null,
+        "query": null,
+        "regionName": "Queensland",
+        "status": "success"
+    }
+]

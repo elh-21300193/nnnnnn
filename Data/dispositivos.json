@@ -1,0 +1,24 @@
+{
+    "routers": [
+        {
+            "name": "ISR4451-X",
+            "type": "hardware",
+            "vendor": "cisco"
+        },
+        {
+            "name": "ASR1001-X",
+            "type": "hardware",
+            "vendor": "cisco"
+        }
+    ],
+    "switches": [
+        {
+            "model1": "CAT9300",
+            "model2": "CAT9400"
+        },
+        {
+            "model3": "CAT9500",
+            "model4": "CAT9600"
+        }
+    ]
+}

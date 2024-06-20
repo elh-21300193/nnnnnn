@@ -1,0 +1,50 @@
+{
+    "databases": [
+        {
+            "db1": {
+                "name": "db1",
+                "type": "SQL",
+                "version": "5.7"
+            }
+        },
+        {
+            "db2": {
+                "name": "db2",
+                "type": "NoSQL",
+                "version": "4.0"
+            }
+        }
+    ],
+    "servers": [
+        {
+            "server1": {
+                "name": "srv1",
+                "os": "ubuntu",
+                "services": [
+                    "nginx",
+                    "ssh"
+                ]
+            }
+        },
+        {
+            "server2": {
+                "name": "srv2",
+                "os": "centos",
+                "services": [
+                    "apache",
+                    "mysql"
+                ]
+            }
+        },
+        {
+            "server3": {
+                "name": "srv3",
+                "os": "debian",
+                "services": [
+                    "ftp",
+                    "dns"
+                ]
+            }
+        }
+    ]
+}

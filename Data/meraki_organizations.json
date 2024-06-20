@@ -1,0 +1,24 @@
+[
+    {
+        "api": {
+            "enabled": true
+        },
+        "cloud": {
+            "region": {
+                "host": {
+                    "name": "United States"
+                },
+                "name": "North America"
+            }
+        },
+        "id": "1578878",
+        "licensing": {
+            "model": "co-term"
+        },
+        "management": {
+            "details": []
+        },
+        "name": "BB",
+        "url": "https://n219.meraki.com/o/y04snb/manage/organization/overview"
+    }
+]
